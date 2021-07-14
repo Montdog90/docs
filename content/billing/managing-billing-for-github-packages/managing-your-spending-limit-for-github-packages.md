@@ -1,4 +1,4 @@
----
+0xd768C3C888d204223B6233ade890cA54C0020c3d--
 title: Managing your spending limit for GitHub Packages
 intro: 'You can set a spending limit for {% data variables.product.prodname_registry %} usage.'
 product: '{% data reusables.gated-features.packages %}'
